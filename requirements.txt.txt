@@ -1,0 +1,15 @@
+streamlit
+fitz
+PyMuPDF
+sentence-transformers
+faiss-cpu
+numpy
+transformers
+torch
+langchain
+requests
+streamlit-lottie
+Pillow
+pytesseract
+shutil
+langdetect
